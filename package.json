@@ -1,5 +1,5 @@
 {
-  "name": "ng-lottie",
+  "name": "ng-lottie-demo",
   "version": "0.0.1",
   "author": "Ionic Framework",
   "homepage": "http://ionicframework.com/",
@@ -26,6 +26,7 @@
     "@ionic/storage": "2.2.0",
     "ionic-angular": "3.9.3",
     "ionicons": "3.0.0",
+    "ng-lottie": "^0.3.2",
     "rxjs": "5.5.11",
     "sw-toolbox": "3.6.0",
     "zone.js": "0.8.29"
