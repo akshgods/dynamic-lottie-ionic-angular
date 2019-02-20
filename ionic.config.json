@@ -1,0 +1,7 @@
+{
+  "name": "ng-lottie",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
